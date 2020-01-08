@@ -59,7 +59,7 @@ header>.innerbox>nav>.all-menu>li>.sub>li>a{color: #424242; font-size:15px; font
 header>.innerbox>nav>.all-menu>li>.sub>li:hover>a{border-bottom: 2px solid #a58e52;}
 /* .all-menu */
 
-#main_banner_slide{position: relative; overflow: hidden; width: 1920px; height: 802px; }
+#main_banner_slide{position: relative; overflow: hidden; width: 1920px; height: 802px; margin: 0 auto;}
 #main_banner_slide>.slide_container{width: 1920px; height: 2406px; margin-top: -802px; }
 #main_banner_slide>.slide_container>li{ width: 1920px;}
 #main_banner_slide>.slide_container>li>a{display: block; height: 802px; text-indent: -9999px;}
